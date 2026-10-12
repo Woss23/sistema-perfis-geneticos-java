@@ -40,8 +40,8 @@ Aplicação de console em Java para cadastrar e gerenciar pacientes e suas sequ�
 
 1. Clone o repositório ou baixe os arquivos:
    ```bash
-   git clone https://github.com/Woss23/NOME-DO-REPOSITORIO.git
-   cd NOME-DO-REPOSITORIO
+   git clone https://github.com/Woss23/sistema-perfis-geneticos-java.git
+   cd sistema-perfis-geneticos-java
    ```
 2. Compile:
    ```bash
